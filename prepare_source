@@ -1,5 +1,4 @@
 pkg=ovh-debian-cis
 version_orig=4.1
-version="$version_orig-1"
-git_src -b "debian/$version" https://github.com/ovh/debian-cis.git
-
+version="$version_orig-5"
+git_src -b "v$version" https://github.com/ovh/debian-cis.git

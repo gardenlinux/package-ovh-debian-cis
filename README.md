@@ -7,5 +7,5 @@ A Debian package out of https://github.com/ovh/debian-cis for CIS hardening test
 
 | Upstream | Debian Version |   Date   |
 |----------|----------------|----------|
-| v2.14    | 2.14-1         | 20251024 |
+| v4.1-5   | 4.1-5          | 20251024 |
 
